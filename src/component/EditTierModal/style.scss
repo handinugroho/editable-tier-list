@@ -1,0 +1,10 @@
+.ReactModal__Body--open,
+.ReactModal__Html--open {
+  overflow: hidden;
+}
+
+.Overlay {
+  inset: 0;
+  position: fixed;
+  background-color: rgba(0,0,0,0.6);
+}
